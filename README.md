@@ -1,10 +1,10 @@
 # Тестовое задание на позицию Frontend-разработчик.
 
-## Описание приложения:
+### Описание приложения:
 
 - Реализована компонента исходя из тестового задания.
 
-## Основные команды для работы
+### Основные команды для работы
 
 - Скачайте или клонируйте код
 - Зайдите в папку проекта через консоль или откройте в редакторе
@@ -14,7 +14,7 @@
 
 
 
-## Cписок используемых библиотек
+### Cписок используемых библиотек
 
 - react
 - styled-components
@@ -22,14 +22,14 @@
 ### Текст задания:
 Задача React JS. Реализовать компоненту:
 
-<ColoredUserpic
-    src='./avatar.png'
-    size={150}
-    margin={4}
-    backgroundColor='red'
-    colors={['green', 'blue']}
-    hoverColors={['blue', 'green']}
-    colorWidth={6}
+<ColoredUserpic\
+&ensp; &ensp; src='./avatar.png'\
+&ensp; &ensp; size={150}\
+&ensp; &ensp; margin={4}\
+&ensp; &ensp; backgroundColor='red'\
+&ensp; &ensp; colors={['green', 'blue']}\
+&ensp; &ensp; hoverColors={['blue', 'green']}\
+&ensp; &ensp; colorWidth={6}\
 />
 
 Результат рендера это круглая картинка с градиентной обводкой, меняющей цвет при наведении.
